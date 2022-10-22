@@ -28,8 +28,7 @@ const Pokedex = () => {
               index + 1
             }.png`,
           };
-        });git init
-        git add README.md
+        })
         setPokemonData(newPokemonData);
       });
   }, []);
